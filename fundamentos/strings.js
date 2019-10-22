@@ -8,8 +8,8 @@ console.log(teste.substring(1))
 console.log(teste.substring(0,2))
 
 console.log('teste'.concat(teste).concat("!"))
+console.log('teste' + teste + "!")
 console.log(teste.replace('G', 'T')) 
 
 console.log('A,B,C,D'.split(','))
 console.log('A,B,C,D'.split(/,/))
- 
