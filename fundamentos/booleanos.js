@@ -10,6 +10,7 @@ console.log(!!isAtivo)
 
 console.log('os verdadeiros...')
 console.log(!!3)
+console.log(!!2.902)
 console.log(!!-1)
 console.log(!!' ')
 console.log(!!'Test')
