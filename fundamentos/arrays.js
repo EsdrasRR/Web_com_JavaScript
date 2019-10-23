@@ -8,7 +8,7 @@ valores[10] = 10
 console.log(valores)
 console.log(valores.length)
 
-valores.push('Teste', {id: 3}, false, null)
+valores.push('Teste', { id: 3 }, false, null)
 console.log(valores)
 
 console.log(valores.pop())

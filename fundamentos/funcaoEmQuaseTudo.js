@@ -2,6 +2,6 @@
 console.log(typeof Object)
 
 // Também é função
-class Produto {}
+class Produto { }
 console.log(typeof Produto)
 
