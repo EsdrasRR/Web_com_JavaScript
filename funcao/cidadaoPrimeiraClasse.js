@@ -36,7 +36,6 @@ const somaAeB = soma(2, 4)
 const somaAeBeC = somaAeB(4)
 
 // Função como atributo de um objeto
-
 const pessoa = {
 
     tossir: function () { return console.log('Cof Cof') },
